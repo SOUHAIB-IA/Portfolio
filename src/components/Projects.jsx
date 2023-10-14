@@ -6,8 +6,7 @@ import ProjectsItems from "./ProjectsItems";
 import mnist from "../assets/mnist.png";
 import support from "../assets/support.png";
 import covmus from '../assets/musicpic.png'
-import supvid from '../assets/support vid.mp4'
-import musvid from '../assets/2023-10-14 00-36-22.mp4'
+
 
 
 const data = [
