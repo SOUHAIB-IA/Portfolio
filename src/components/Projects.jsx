@@ -30,7 +30,7 @@ const data = [
     title: "application du converstion des audio",
     details: "appliaction desktop avec Tkinter qui convertire les extenstion des audio avec une extenstion unique .irm ",
     gitlink:"https://github.com/SOUHAIB-IA/convert-audio",
-   source:musvid
+    source:musvid
   },
 ];
 
@@ -63,7 +63,7 @@ function Projects()
             title={item.title}
             details={item.details}
             gitlink={item.gitlink}
-           // videoSrc={item.source}
+            videoSrc={item.source}
           />
         ))}
       </div>
