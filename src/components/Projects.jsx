@@ -6,6 +6,7 @@ import ProjectsItems from "./ProjectsItems";
 import mnist from "../assets/mnist.png";
 import support from "../assets/support.png";
 import covmus from '../assets/musicpic.png'
+import musvid from "../assets/2023-10-14 00-36-22.mp4"
 
 
 
@@ -29,7 +30,7 @@ const data = [
     title: "application du converstion des audio",
     details: "appliaction desktop avec Tkinter qui convertire les extenstion des audio avec une extenstion unique .irm ",
     gitlink:"https://github.com/SOUHAIB-IA/convert-audio",
-   //source:musvid
+   source:musvid
   },
 ];
 
