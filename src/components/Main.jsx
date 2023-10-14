@@ -32,11 +32,10 @@ function Main() {
             />
           </h2>
           <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <a href="https://github.com/SOUHAIB-IA"><FaGithub className="cursor-pointer" size={20}/></a>
-            <a href="https://www.facebook.com/souhaib.garaaouch.9"><FaFacebookF className="cursor-pointer" size={20}/></a>
-            <a href="https://www.instagram.com/souhaibgaraaouch/"><FaInstagram className="cursor-pointer" size={20}/></a>
-            <a href="www.linkedin.com/in/souhaib-garaaouch-853a011a5"><FaLinkedinIn className="cursor-pointer" size={20}/></a>
-
+            <a href="https://github.com/SOUHAIB-IA" target="_blank"><FaGithub className="cursor-pointer" size={20}/></a>
+            <a href="https://www.facebook.com/souhaib.garaaouch.9" target="_blank"><FaFacebookF className="cursor-pointer" size={20}/></a>
+            <a href="https://www.instagram.com/souhaibgaraaouch/" target="_blank"><FaInstagram className="cursor-pointer" size={20}/></a>
+            <a href="https://www.linkedin.com/in/souhaib-garaaouch-853a011a5/" target="_blank"><FaLinkedinIn className="cursor-pointer" size={20}/></a>
           </div>
         </div>
       </div>
