@@ -23,7 +23,7 @@ const data = [
     title: "support clinet platform",
     details: "application web du support clinets avec react js,sprinboot, mysql",
     gitlink:"",
-    source:supvid
+    /*source:supvid*/
   },
   {
     image:covmus,
