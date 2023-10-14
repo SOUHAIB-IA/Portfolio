@@ -6,8 +6,8 @@ import ProjectsItems from "./ProjectsItems";
 import mnist from "../assets/mnist.png";
 import support from "../assets/support.png";
 import covmus from '../assets/musicpic.png'
-import musvid from "../assets/2023-10-14 00-36-22.mp4"
-
+/*import supvid from '../assets/support vid.mp4'*/
+import musvid from '../assets/2023-10-14 00-36-22.mp4'
 
 
 const data = [
@@ -23,7 +23,7 @@ const data = [
     title: "support clinet platform",
     details: "application web du support clinets avec react js,sprinboot, mysql",
     gitlink:"",
-  //  source:supvid
+    source:supvid
   },
   {
     image:covmus,
