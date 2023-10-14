@@ -15,7 +15,7 @@ const data = [
     image: mnist,
     title: "application de la recherch par images",
     details: "code et documentation d'une application de la recherch par images, en python ",
-    gitlink:"https://github.com/SOUHAIB-IA/similarit-d-images/tree/master"
+    gitlink:"https://github.com/SOUHAIB-IA/similarit-d-images"
     
   },
   {
