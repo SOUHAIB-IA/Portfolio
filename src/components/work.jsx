@@ -9,7 +9,7 @@ const data = [
   },
   {
     title: "Web Technologys",
-    details: "React js, SprinBoot, Tailwind, Bootstart",
+    details: "React js, SprinBoot, Tailwind, Bootstarp",
   },
   {
     title: "Additional Skills",
