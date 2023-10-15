@@ -21,14 +21,14 @@ const ProjectsItems = ({ img, title, details, gitlink, videoSrc }) => {
           {title}
         </h3>
         <p className="pb-4 pt-2 text-black text-center">{details}</p>
-        {title === "support clinet platform" ? (
+        {title === "support client platform" ? (
           <button
             onClick={handleShowVideo}
             className="text-center p-3 rounded-lg bg-white text-gray-700 font-blod cursor-pointer text-lg"
           >
             Show Video
           </button>
-        ) : title === "application du converstion des audio" ? (
+        ) : title === "application du converstion des audios" ? (
           <div className=" inline-flex gap-3">
             <button
               onClick={handleShowVideo}
