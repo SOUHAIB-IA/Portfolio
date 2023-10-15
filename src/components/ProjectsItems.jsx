@@ -28,7 +28,7 @@ const ProjectsItems = ({ img, title, details, gitlink, videoSrc }) => {
           >
             Show Video
           </button>
-        ) : title === "application du converstion des audios" ? (
+        ) : title === "application du conversion des audios" ? (
           <div className=" inline-flex gap-3">
             <button
               onClick={handleShowVideo}
