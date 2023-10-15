@@ -8,7 +8,7 @@ const data = [
     details: "Java, JavaScript, SQL, HTML, CSS",
   },
   {
-    title: "Web Technologys",
+    title: "Web Technologies",
     details: "React js, SprinBoot, Tailwind, Bootstarp",
   },
   {
