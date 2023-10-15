@@ -27,8 +27,8 @@ const data = [
   },
   {
     image:covmus,
-    title: "application du converstion des audio",
-    details: "appliaction desktop avec Tkinter qui convertire les extenstion des audio avec une extenstion unique .irm ",
+    title: "application du converstion des audios",
+    details: "application desktop avec Tkinter qui convertit les extensions des audios avec une extension unique .irm ",
     gitlink:"https://github.com/SOUHAIB-IA/convert-audio",
     source:musvid
   },
