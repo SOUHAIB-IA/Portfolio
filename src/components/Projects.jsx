@@ -13,8 +13,8 @@ import musvid from '../assets/2023-10-14 00-36-22.mp4'
 const data = [
   {
     image: mnist,
-    title: "application de la recherch par images",
-    details: "code et documentation d'une application de la recherch par images, en python ",
+    title: "application de la recherche par images",
+    details: "code et documentation d'une application de la recherche par images, en python ",
     gitlink:"https://github.com/SOUHAIB-IA/similarit-d-images"
     
   },
@@ -27,7 +27,7 @@ const data = [
   },
   {
     image:covmus,
-    title: "application du converstion des audios",
+    title: "application du conversion des audios",
     details: "application desktop avec Tkinter qui convertit les extensions des audios avec une extension unique .irm ",
     gitlink:"https://github.com/SOUHAIB-IA/convert-audio",
     source:musvid
