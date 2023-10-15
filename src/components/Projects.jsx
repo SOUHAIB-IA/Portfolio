@@ -21,7 +21,7 @@ const data = [
   {
     image:support,
     title: "support client platform",
-    details: "application web du support clinets avec react js,sprinboot, mysql",
+    details: "application web du support clients avec react js,sprinboot, mysql",
     gitlink:"",
     source:supvid
   },
