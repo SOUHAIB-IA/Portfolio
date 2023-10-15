@@ -11,23 +11,23 @@ function Contact() {
         <div className="grid md:grid-cold-2 gap-4 w-full py-2">
           <div className="flex flex-col">
             <label htmlFor="" className="uppercase text-sm py-2">Name</label>
-            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="text" placeholder="name" name="name" />
+            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="text" placeholder="name" name="name" required />
           </div>
           <div className="flex flex-col">
             <label htmlFor="" className="uppercase text-sm py-2">Phone</label>
-            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="text" name="phone" placeholder="phone number" />
+            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="text" name="phone" placeholder="phone number" required />
           </div>
           <div className="flex flex-col py-2">
             <label htmlFor="" className="uppercase text-sm py-2">Email</label>
-            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="email" name="email"  placeholder="example@gmail.com"/>
+            <input className='border-2 rounded-lg p-3 flex border-gray-300 'type="email" name="email"  placeholder="example@gmail.com" required/>
           </div>
           <div className="flex flex-col py-2">
             <label htmlFor="" className="uppercase text-sm py-2">Subject</label>
-            <input className='border-2 rounded-lg p-3 flex border-gray-300 ' type="text" name="subject" placeholder="subject" />
+            <input className='border-2 rounded-lg p-3 flex border-gray-300 ' type="text" name="subject" placeholder="subject" required />
           </div>
           <div className="flex flex-col py-2">
             <label htmlFor="" className="uppercase text-sm py-2">Message</label>
-            <textarea className="border-2 rounded-lg p-3 border-gray-300"  rows={10}  name='message'placeholder="Message..." />
+            <textarea className="border-2 rounded-lg p-3 border-gray-300"  rows={10}  name='message'placeholder="Message..." required/>
           </div>
           <button className="bg-[#0015be] text-gray-100 mt-4 w-full p-4 rounded-lg">send Message </button>
         </div>
