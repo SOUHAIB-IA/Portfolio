@@ -20,7 +20,7 @@ function Main() {
             <TypeAnimation
               sequence={[
                 // Same substring at the start will only be typed out once, initially
-                "full satck devoloper",
+                "full stack devoloper",
                 2000, // wait 1s before replacing "Mice" with "Hamsters"
                 "freelancer",
                 2000,
