@@ -3,7 +3,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import{FaTwitter,FaFacebookF,FaInstagram,FaLinkedinIn, FaGithub} from 'react-icons/fa'
-import imain from "../assets/1 (2).jpg"
+import imain from "../assets/1 (2).webp"
 function Main() {
   return (
     <div id="main">
